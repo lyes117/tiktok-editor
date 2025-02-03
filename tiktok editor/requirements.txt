@@ -1,0 +1,68 @@
+# Interface graphique
+PyQt6==6.6.1
+PyQt6-Qt6==6.6.1
+PyQt6-sip==13.6.0
+PyQt6-WebEngine==6.6.0
+PyQt6-WebEngine-Qt6==6.6.1
+
+# Traitement vidéo et image
+opencv-python==4.8.1.78
+opencv-contrib-python==4.8.1.78
+Pillow==10.1.0
+
+# Traitement audio
+soundfile==0.12.1
+scipy==1.11.4
+audioread==3.0.1
+
+# Détection faciale et IA
+mediapipe==0.10.8
+protobuf==4.25.1
+
+# Utilitaires de base
+numpy==1.26.2
+tqdm==4.66.1
+requests==2.31.0
+python-dotenv==1.0.0
+packaging==23.2
+attrs==23.1.0
+
+# Gestion des fichiers et formats
+python-magic-bin==0.4.14
+python-magic==0.4.27
+pathlib==1.0.1
+filetype==1.2.0
+
+# Compression et archivage
+zipp==3.17.0
+importlib-metadata==7.0.0
+
+# Développement et tests
+pytest==7.4.3
+pytest-qt==4.2.0
+pytest-cov==4.1.0
+coverage==7.3.2
+black==23.11.0
+isort==5.12.0
+flake8==6.1.0
+mypy==1.7.1
+typing_extensions==4.8.0
+
+# Documentation
+Sphinx==7.2.6
+sphinx-rtd-theme==1.3.0
+docutils==0.20.1
+Jinja2==3.1.2
+MarkupSafe==2.1.3
+
+# Logging et debugging
+colorlog==6.7.0
+python-json-logger==2.0.7
+
+# Optimisation et performance
+psutil==5.9.6
+memory-profiler==0.61.0
+
+# Sécurité
+cryptography==41.0.5
+certifi==2023.11.17
